@@ -1,1 +1,3 @@
-# Programming
+# About 
+
+Repository dedicated to software solutions
